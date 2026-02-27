@@ -5,6 +5,8 @@ body {
   letter-spacing: 1px;
   margin: 10px;
   text-align: left;
+  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 
 table {

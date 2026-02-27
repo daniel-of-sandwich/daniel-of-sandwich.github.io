@@ -9,12 +9,12 @@ body {
 table {
   border-collapse: separate;
   border-spacing: 6px;
-  font-size: medium;
 }
 
 td {
   background-color: #ffffff;
   border: 2px solid black;
+  font-size: medium;
 }
 
 img {
